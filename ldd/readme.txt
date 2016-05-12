@@ -1,3 +1,10 @@
+howto make it:
+1. run "make.bat" in ALL directories
+2. run "build.bat" in "\loader"
+3. use "\loader\ldd.spg" as resulting file
+
+original readme.txt:
+__________________________________
 
                   ________               ______            ______
                   \     |                \   |             \   |
