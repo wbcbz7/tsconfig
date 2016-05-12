@@ -1,0 +1,20 @@
+Name: Rubicon
+Platform: ZX Evolition, TS configuration
+Party: 3BM OpenAir 2014
+Authors: 
+  Hacker VBI
+  Music: KeyJee & C-Jeff
+email: waybester@gmail.com
+
+PS: Demo written for enhanced demo compo. Use Z80 as main CPU on 14Mgz, 4Mb RAM, AY and Covox, 
+    and work on standart ZX Evolution with TS configuration onboard.
+    In TSconf we have 320x240 256/16 colors mode, two tiles layers and three sprite layer over main graphics, and many other posibilities for coders.
+
+    This pack contain source and spgbld.ini (list of all resource in memory).
+    So, it not so good code, but we may use it as base for your prods on TS.
+
+    Demo written after Sundown 2014, from 23.06 to 10.07.
+	Thanks to Daniel Guldkrans for Your beautyful fonts!
+
+    Thanks for watching.
+    Best regards, Hacker VBI ;)
